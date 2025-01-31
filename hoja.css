@@ -1,0 +1,35 @@
+/* Unidad de medida pixeles
+PX= pixeles
+%= Porcentaje
+
+Padding=
+*/
+
+body {
+    font-size: 16px;
+}
+
+.box{
+    width: 50%;
+    height: 100px;
+    background-color: #ff7b00;
+    color: antiquewhite;
+    font-size: 1rem;
+    margin: 10px;
+    box-shadow: 3px 3px 5px gray;
+   /* border-width: 1px;
+    border-style: solid;
+    border-color: black;*/
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+.boxInterna{
+    width: 50%;
+    height: 100px;
+    background-color: rgb(17, 0, 255);
+    color: antiquewhite;
+    padding: 20px;
+
+}
+

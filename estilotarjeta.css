@@ -1,0 +1,36 @@
+*{
+    color: rgb(1, 0, 2);
+    background-color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: #740000;
+    text-align: center;
+    
+}
+p{
+    color: rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+}
+
+#tarjeta{
+    width: 30%;
+    height: 300px;
+    background-color: white;
+    margin: 10px auto;
+    padding: 20px;
+    padding-left: 50px;
+    box-shadow: 3px 3px 10px rgb(119, 117, 117);
+    border: 1px solid rgb(77, 76, 76);
+    border-radius: 5px; 
+
+    
+}
+.highlight{
+    background-color: #bbb7b7;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    width: 200px;      
+}
